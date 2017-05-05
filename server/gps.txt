@@ -1,0 +1,2 @@
+COM=com6
+baud=9600
